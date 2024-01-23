@@ -64,7 +64,7 @@ export default function Home() {
               <Link 
                 href="/react-cv.pdf"
                 target="_blank"
-                className="flex items-center bg-gradient-to-r from-cyan-500 text- to-teal-500 text-white px-6 py-3 border-none rounded-md hover:text-black"
+                className="flex items-center bg-gradient-to-r from-cyan-500 text- to-teal-500 text-white px-6 py-3 border-none rounded-md hover:text-gray-900"
                 download={true}
               >
                 Resume <FaExternalLinkAlt className="ml-2 text-md"/>
